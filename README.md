@@ -6,4 +6,4 @@ exercise 2 for database application development
 2. Open a terminal and navigate to the folder 
 3. Run main.py with python 3 
 ```console
-> python main.py
+python main.py
